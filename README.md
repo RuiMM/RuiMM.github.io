@@ -1,2 +1,2 @@
-## Welcome to GitHub Pages
-   application
+## RuiMei github io page 
+   自走棋启动
